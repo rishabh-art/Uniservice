@@ -60,13 +60,13 @@ body{
 .heading{
     color: antiquewhite;
     font-family: 'Rowdies';
-    font-size: 1.5rem;
+    font-size: 3rem;
     text-align: center;
 }
 
 .subtitle{
     color:darksalmon;
     font-family: 'Gloria Hallelujah';
-    font-size: 0.5rem;
+    font-size: 2rem;
     text-align: center;
 }
