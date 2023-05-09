@@ -8,6 +8,7 @@
     overflow: hidden;
     float: center;
     margin: auto;
+    align-self: center;
 }
 
 .underNavigation{
