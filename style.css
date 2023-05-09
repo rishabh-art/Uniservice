@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Rowdies&display=swap');
+
 .navigation{
     list-style-type: none;
     margin: 0;
@@ -52,4 +55,18 @@ body{
 }
 #contactus{
     color: black;
+}
+
+.heading{
+    color: antiquewhite;
+    font-family: 'Rowdies';
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.subtitle{
+    color:darksalmon;
+    font-family: 'Gloria Hallelujah';
+    font-size: 0.5rem;
+    text-align: center;
 }
