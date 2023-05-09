@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Rowdies&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Rowdies&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Josefin+Sans&family=Rowdies&display=swap');
 .navigation{
     list-style-type: none;
     margin: 0;
@@ -9,6 +9,8 @@
 }
 
 .underNavigation{
+    font-family: 'Josefin Sans';
+    font-size: 1rem;
     display: inline;
     padding: 8px;
     background-color: #ffc90e;
