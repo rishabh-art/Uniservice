@@ -7,6 +7,7 @@
     padding: 0;
     overflow: hidden;
     float: center;
+    margin: auto;
 }
 
 .underNavigation{
