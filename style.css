@@ -89,7 +89,6 @@
 h3{
     font-family: 'Poltawski Nowy';
     font-size: 19px;
-    color: black;
 }
 
 .text{
@@ -108,4 +107,10 @@ body{
 }
 .text-blackbulletin{
     color: #f66d6b;
+    font-family: 'Patrick Hand'
+}
+.headidng-blackbulletin{
+    font-family: 'Poltawski Nowy';
+    font-size: 19px;
+    color: #ffc90e;
 }
