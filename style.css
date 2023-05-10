@@ -114,3 +114,14 @@ body{
     font-size: 19px;
     color: #ffc90e;
 }
+.bold-attraction_btn{
+    color:#ffc90e;
+    font-size: 3rem;
+    background-color: black;
+    font-family: cursive;
+    border-radius: 8px;
+}
+.bold-attraction_btn:hover{
+    color: black;
+    background-color: #ffc90e;
+}
