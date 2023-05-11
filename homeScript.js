@@ -8,7 +8,7 @@ const apiKey = 'XWXORHP1704KVJ0K';
         .then(response => response.json())
         .then(data => {
           const value = data[fieldId];
-          const valueElement = document.getElementById('value');
+          const valueElement = document.getElementById('demo');
           valueElement.textContent = value;
         })
         .catch(error => console.error(error));
