@@ -10,8 +10,9 @@ const apiKey = 'XWXORHP1704KVJ0K';
           let value = data[fieldId];
           let valueElement = document.getElementById('demo');
           valueElement.textContent = value;
+          alert(value)
         })
         .catch(error => console.error(error));
-        alert(value)
+  
 
     
