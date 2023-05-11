@@ -7,9 +7,11 @@ const apiKey = 'XWXORHP1704KVJ0K';
       fetch(url)
         .then(response => response.json())
         .then(data => {
-          const value = data[fieldId];
-          const valueElement = document.getElementById('demo');
+          let value = data[fieldId];
+          let valueElement = document.getElementById('demo');
           valueElement.textContent = value;
         })
         .catch(error => console.error(error));
         alert(value)
+
+    
