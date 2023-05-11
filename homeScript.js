@@ -1,3 +1,6 @@
+const a=1
+
+while (a=1)
 const apiKey = 'XWXORHP1704KVJ0K';
       const channelId = '2141717';
       const fieldId = '1';
@@ -13,6 +16,6 @@ const apiKey = 'XWXORHP1704KVJ0K';
           alert(value)
         })
         .catch(error => console.error(error));
-  
+    
 
     
